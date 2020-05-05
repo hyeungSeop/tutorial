@@ -1,1 +1,2 @@
-Plain text file for testing
+remove first line
+add new texts in sample2
